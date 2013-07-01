@@ -1,5 +1,5 @@
 {
-    "name": "socialauther",
+    "name": "evrikaru/socialauther",
     "description": "PHP library to simplify authentication on social networks",
     "autoload": {
         "psr-0": { "SocialAuther": "lib/" }
