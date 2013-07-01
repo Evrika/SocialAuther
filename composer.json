@@ -1,6 +1,6 @@
 {
-    "name": "Evrika development",
-    "description": "Evrika.ru development project, based on the \"Symfony Standard Edition\" distribution",
+    "name": "socialauther",
+    "description": "PHP library to simplify authentication on social networks",
     "autoload": {
         "psr-0": { "SocialAuther": "lib/" }
     }
