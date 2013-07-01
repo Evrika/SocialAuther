@@ -1,0 +1,7 @@
+{
+    "name": "Evrika development",
+    "description": "Evrika.ru development project, based on the \"Symfony Standard Edition\" distribution",
+    "autoload": {
+        "psr-0": { "SocialAuther": "lib/" }
+    }
+}
